@@ -1,0 +1,6 @@
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\bin\Debug\WorkBoard.exe.config
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\bin\Debug\WorkBoard.exe
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\bin\Debug\WorkBoard.pdb
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\obj\Debug\WorkBoard.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\obj\Debug\WorkBoard.exe
+C:\Users\Sam\Documents\GitHub\eal\WorkBoard\WorkBoard\obj\Debug\WorkBoard.pdb
