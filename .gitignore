@@ -1,1 +1,2 @@
-WorkBoard/obj/Debug/
+WorkBoard/obj/Debug/*.cs
+Workboard2/obj/Debug/*.cs
