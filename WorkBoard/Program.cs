@@ -21,11 +21,10 @@ namespace WorkBoard
         {
             while(Console.ReadKey().Key != ConsoleKey.Escape)
             {
-                Timer atime = new Timer(2000);
-                atime.Elapsed += OnTriggerEvent;
-                atime.AutoReset = false;
-                atime.Enabled = true;
-
+                //Timer atime = new Timer(2000);
+                //atime.Elapsed += OnTriggerEvent;
+                //atime.AutoReset = false;
+                //atime.Enabled = true;
 
             }
             

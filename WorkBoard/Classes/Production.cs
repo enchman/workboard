@@ -19,6 +19,8 @@ namespace WorkBoard
 
         private List<Tool> machines = new List<Tool> { };
 
+        private Dictionary<Function.Type, int> parts = new Dictionary<Function.Type, int> { };
+
         public Production()
         {
 
@@ -39,7 +41,15 @@ namespace WorkBoard
             
         }
 
-        
+        public Item GetItem()
+        {
+            return new Item();
+        }
+
+        public List<Item> GetItems()
+        {
+
+        }
         
     }
 }

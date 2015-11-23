@@ -8,11 +8,13 @@ namespace WorkBoard
 {
     class Item
     {
-        public int Id;
         public string Name;
         public Blueprint Schematic;
         
-        
+        public Item()
+        {
+
+        }
 
     }
 }

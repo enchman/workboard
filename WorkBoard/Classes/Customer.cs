@@ -13,5 +13,8 @@ namespace WorkBoard
         public string Lastname;
         public string Email;
         public List<Order> Orders = new List<Order> { };
+        private int currentId = 1;
+
+        public 
     }
 }

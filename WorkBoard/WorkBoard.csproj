@@ -46,11 +46,11 @@
     <Compile Include="Classes\Customer.cs" />
     <Compile Include="Classes\Blueprint.cs" />
     <Compile Include="Classes\Employee.cs" />
+    <Compile Include="Classes\Function.cs" />
     <Compile Include="Classes\Item.cs" />
     <Compile Include="Classes\Order.cs" />
+    <Compile Include="Classes\Production.cs" />
     <Compile Include="Database.cs" />
-    <Compile Include="Function.cs" />
-    <Compile Include="Production.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Classes\Tool.cs" />
