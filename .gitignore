@@ -1,2 +1,4 @@
-WorkBoard/obj/Debug/*.cs
-Workboard2/obj/Debug/*.cs
+*.suo
+*.cache
+**/obj/
+**/bin/
