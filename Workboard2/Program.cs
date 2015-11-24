@@ -14,7 +14,7 @@ namespace Workboard2
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Block.ToString());
+            
             Console.ReadKey();
         }
 

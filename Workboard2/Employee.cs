@@ -8,7 +8,11 @@ namespace Workboard2
 {
     class Employee
     {
+        public int DailyWorkInMinute = 0;
+        public int TotalWorkingTime = 0;
+
         public string Name { get; set; }
+        
         private Joblist Job { get; set; }
 
         public Employee(string name)
