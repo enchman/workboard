@@ -49,6 +49,8 @@
     <Compile Include="Item.cs" />
     <Compile Include="Joblist.cs" />
     <Compile Include="Machine.cs" />
+    <Compile Include="Makeup.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Production.cs" />
     <Compile Include="Program.cs" />

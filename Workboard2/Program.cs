@@ -14,7 +14,11 @@ namespace Workboard2
 
         static void Main(string[] args)
         {
-            
+            DateTime dateA = new DateTime(2015, 11, 25);
+            DateTime dateB = new DateTime(2015, 11, 25);
+
+            int result = DateTime.Compare(dateA, dateB);
+            Console.WriteLine(result.ToString());
             Console.ReadKey();
         }
 
